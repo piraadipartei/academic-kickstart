@@ -13,7 +13,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
+copyright = "Lehe sisu on avaldatud [Creative Commonsi avaliku omandi litsentsi](https://creativecommons.org/publicdomain/zero/1.0/) alusel"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""

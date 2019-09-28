@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
-subtitle = ""
+title = "Ühildumine"
+subtitle = "liitumiseks on kõige targem saata digiallkirjastatud avaldus juhatus@piraadipartei.ee"
 
 # Automatically link email and phone?
 autolink = true
