@@ -6,7 +6,7 @@ Veeb põhineb [Academic Kickstart](https://sourcethemes.com/academic/) kujunduse
 
 ## Paar juhtnööri
 
-* Veebilehe sisu on suuremas osas kataloogis [content](https://github.com/piraadipartei/academic-kickstart/tree/master/content). Seal kataloogides liikudes on ülal paremal alati olemas "Create new file" ja pliiatsi kujutis koos popupiga "Fork thttps://gohugo.io/content-management/formats/his project and edit the file".
+* Veebilehe sisu on suuremas osas kataloogis [content](https://github.com/piraadipartei/academic-kickstart/tree/master/content). Seal kataloogides liikudes on ülal paremal alati olemas "Create new file" ja pliiatsi kujutis koos popupiga "Fork this project and edit the file".
 * Uued postitused käivad kataloogi [posts](https://github.com/piraadipartei/academic-kickstart/tree/master/content/post) ja need võivad olla eri keeltes (sel juhul peab failinime lõpus olev kahetäheline keelekood, vt täpsemalt [siit](https://gohugo.io/content-management/multilingual/#translate-your-content), liidese tõlked on muidu [kujunduse all](https://github.com/piraadipartei/hugo-academic/tree/master/i18n)).
 * Postitused on suurepärases [Markdown-vormingus](https://gohugo.io/content-management/formats/) ja saab kasutada [lühikoode](https://gohugo.io/content-management/shortcodes/) jmt jne.
 * Ideed piraadilaeva ehitamiseks võib julgelt ja vabas vormis [panna kirja tegevuste alla](https://github.com/piraadipartei/piraadipartei.github.io/issues) — ei ole välistatud, et head ideed resoneeruvad ja annavad uusi ootamaid tulemusi!
