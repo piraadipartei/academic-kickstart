@@ -3,13 +3,13 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "membership"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 35 # Order that this section will appear.
 
-title = "Ära usalda plakatit, informeeri ennast!"
-subtitle = "▶ üleilmse piraadiliikumise kohalik rakuke ◀"
+title = "Ühildumine"
+subtitle = "liitumiseks täida ja allkirjasta avaldus"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,8 +46,6 @@ subtitle = "▶ üleilmse piraadiliikumise kohalik rakuke ◀"
  # CSS class.
  css_class = ""
 +++
-
-Piraadipartei on digipõlvkonna poliitiline platvorm, mis seisab kultuurse ja vaba infoühiskonna eest. Kui kuuled sellest esimest korda, siis võib olla mõistlik lüüa lahti [Vikipeedia](https://et.wikipedia.org/wiki/Piraadipartei).
 
 {{% alert note %}}
 Piraadilaev on ekselnud ulgumerel, näinud torme ja karisid. Oleme hetkel heitnud end ankrusse turvalisse lahesoppi ja vaatame, mis saab edasi. Sina [saad aidata](https://github.com/piraadipartei/academic-kickstart/blob/master/README.md)!

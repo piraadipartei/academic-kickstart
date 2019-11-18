@@ -5,19 +5,19 @@
 
 [[main]]
   name = "Meist"
-  url = "#demo"
+  url = "#intro"
   weight = 10
 
 [[main]]
-  name = "Ajalugu"
-  url = "#experience"
+  name = "Uudised"
+  url = "#posts"
   weight = 30
 
 [[main]]
-  name = "Ühildu!"
-  url = "#contact"
+  name = "Liitu!"
+  url = "#liitu"
   weight = 60
-
+  
 [[main]]
   name = "Dokumendid"
   url = "docs/"
