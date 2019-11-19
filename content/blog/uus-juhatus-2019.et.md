@@ -4,7 +4,7 @@ subtitle: ""
 slug: 'uus-juhatus-2019'
 summary: "Uus juhatus koosseisus Gamithra Marga, Margus Toots ja Märt Põder seab eesmärgiks seniste huviliste tõhusama koondamise ning laienemise 500 liikmeni."
 authors: ["Piraadipartei"]
-tags: ['uus juhatus', 'digiosalus', 'üldkoosolek']
+tags: ['uus juhatus', 'digiosalus', 'üldkoosolek', 'e-riik', 'Euroopa Parlament', 'Island', 'Tšehhi', 'Helsingi', 'Luksemburg', 'piraadipartei', 'Euroopa Piraadipartei']
 categories: []
 date: "2019-11-18T00:00:00"
 featured: false
@@ -32,6 +32,6 @@ Valitud juhatus pole veel oma sisemist töökorraldust kokku leppinud, aga eri l
 
 Kindel on aga see, et oluliselt tugevneb Piraadipartei ametlik koostöö Euroopa kolleegidega. Gamithra Marga on lisaks oma rollile Islandi Piraadiparteis ka valitud Euroopa Piraadipartei juhatusse ning 2019. aasta valimiste järel on Euroopa Parlamendi liikmeks varasema ühe asemel tervelt neli piraati. Ka on piraadid Islandi, Luksemburgi ja Tšehhi parlamentides, rääkimata madalama taseme esinduskogudest eri riikides, sh meie põhjanaabrite juures Helsingi linnavolikogus.
 
-Piraadiliikumine on võtmas Euroopas üha olulisemat rolli. Kuigi võib jääda mulje, et Internet ja üldse digitehnoloogia on nüüdseks juba aastaid osa harjumuspärasest igapäevast, siis tegelikult on selle jõudmine eri eluvaldkondadesse ning ühiskonnagruppidesse tekitamas üha uusi ja uusi probleeme. Ühiskonna suutmatus saada hakkama infosfääri polariseerumisega ning konfliktidega sotsmeedias on ilmselt selle käegakatsutavaim näide.
+Piraadiliikumine on võtmas Euroopas üha olulisemat rolli. Kuigi võib jääda mulje, et Internet ja üldse digitehnoloogia on nüüdseks juba aastaid osa harjumuspärasest igapäevast, siis tegelikult on selle jõudmine eri eluvaldkondadesse ning ühiskonnagruppidesse tekitamas üha uusi ja uusi probleeme. Ühiskonna suutmatus saada hakkama infosfääri polariseerumisega ning üha teravnevate konfliktidega sotsmeedias on ilmselt selle käegakatsutavaim näide.
 
-Piraatidel on digitaalsete ökosüsteemide haldamisega aastakümnete pikkune kogemus ning lahendused, mis ei sisalda Interneti tsenseerimist ja kogu infosfääri riikliku eestkoste alla võtmist. Selle kogemuse tahame teiega koos konverteerida poliitiliseks kapitaliks, et selle abil kujundada e-riigina tuntud Eesti tõeliselt [vabaks ja kultuurseks infoühiskonnaks](https://piraadipartei.ee/blog/riigikogu-programm-2019/), milles tagatakse kodanikele nende digiõigused, netikogukonnad loovad ja õitsevad — ning jäme ots riigiasjade otsustamisel pole mitte bürokraatide, vaid digikodanike endi käes.
+Piraatidel on digitaalsete ökosüsteemide haldamisega aastakümnete pikkune kogemus ning lahendused, mis ei sisalda Interneti tsenseerimist ja kogu infosfääri riigi või eraettevõtete eestkoste alla võtmist. Selle kogemuse tahame teiega koos konverteerida poliitiliseks kapitaliks, et selle abil kujundada e-riigina tuntud Eesti tõeliselt [vabaks ja kultuurseks infoühiskonnaks](https://piraadipartei.ee/blog/riigikogu-programm-2019/), milles tagatakse kodanikele nende digiõigused, mitmekesised netikogukonnad loovad ja õitsevad — ning jäme ots riigiasjade otsustamisel pole mitte bürokraatide, vaid digikodanike endi käes.
