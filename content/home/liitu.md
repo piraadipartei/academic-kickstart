@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 35 # Order that this section will appear.
 
 title = "Ühildumine"
-subtitle = "liitumiseks täida ja allkirjasta avaldus"
+subtitle = "liitumiseks täida ning allkirjasta avaldus — liikmemaksu pole ja isikuandmeid kõrvaliste isikutega me ei jaga"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

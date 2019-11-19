@@ -13,13 +13,9 @@ featured: false
 draft: false
 disableComments: true
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+header:
+  image: "koerasyda.jpg"
+  caption: "Märt Põder kandideeris alltoodud infoühiskonna programmiga Riigikogu valimistel 2019 roheliste nimekirjas Narvas ja Ida-Virumaal ning lubas end valituks saades kiibistada"
 ---
 
 __Eesti infoühiskonna edu tulenes algselt 90ndate piiranguteta olukorrast, mis võimaldas võtta kasutusele uue tehnoloogia veel euroopalikke väärtusi järgimata -- tarkvara piraatisid nii riigiastused kui eraettevõtted, isikuandmetega võis hangeldada suuremaid sanktsioone kartmata.__
@@ -66,4 +62,4 @@ Kuritegevus digikeskkonnas on tsiviilõiguslik valdkond, mis tuleb hoida eraldi 
 
 Riik toetab teadmismahukat ja tehnoloogilisele innovatsioonile toetuvat ettevõtlust eelkõige soosiva õigusraamistiku ja ettevõtluskeskkonna kujundamisega. Soosime katseprojektide läbiviimist jagamismajanduse, isejuhtivate sõidukite jm vallas, kuid eristame ajutise iseloomuga katseprojektid ning neid võimaldavad tingimused jäävatest muudatustest õigussüsteemi. Eestis prototüübitud mudelid peaksid olema skaleeritavad ning seda peaks õigusraamistiku eksperimentide korral silmas pidama. Eesti võimalus on avatud patendivaramud ja avatud teadmus, mida on otstarbekas arendada Soome lahe lõunakaldal, aga rakendada ka mujal maailmas. Juurutame ettevõtlusandmete süsteemse kogumise ning avaldamise, mis võimaldab majandust täpsemalt modelleerida ja optimeerida ning tagab rakendatud meetmete skaleeritavuse.
 
-_Piraadid kandideerisid Riigikogu valimistel roheliste nimekirjas, sest rohelised nõustusid liitma oma platvormi meie [digikodanike õigustele keskenduva infoühiskonna programmi](https://rohelised.ee/valimisprogramm-2019/#eesti-kui-info%C3%BChiskond). Koostasime selle spetsiaalselt Riigikogu valimisteks ning pakkusime seda ka teistele erakondadele. Kuigi koostatud Riigikogu valimisteks 2019 jääb see programm ilmselt aktuaalseks veel vähemalt pooleks tosinaks aastaks._
+_Piraadid kandideerisid Riigikogu valimistel roheliste nimekirjas, sest rohelised nõustusid liitma oma platvormi meie [digikodanike õigustele keskenduva infoühiskonna programmi](https://rohelised.ee/valimisprogramm-2019/#eesti-kui-infouhiskond). Koostasime selle spetsiaalselt Riigikogu valimisteks ning pakkusime seda ka teistele erakondadele. Kuigi koostatud Riigikogu valimisteks 2019 jääb see programm ilmselt aktuaalseks veel vähemalt pooleks tosinaks aastaks._
