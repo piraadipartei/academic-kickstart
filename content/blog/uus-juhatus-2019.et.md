@@ -8,7 +8,7 @@ tags: ['uus juhatus', 'digiosalus', 'üldkoosolek', 'e-riik', 'Euroopa Parlament
 categories: []
 date: "2019-11-18T00:00:00"
 featured: false
-draft: false
+draft: true
 disableComments: true
 
 header:
