@@ -21,6 +21,6 @@ menu:
     weight: 1
 ---
 
-Piraadipartei on generatiivne, uuuenev ja taaskasutatav. See on võimalik ainult korraliku dokumentatsiooni olemasolul.
+Piraadipartei on generatiivne, uuenev ja taaskasutatav. See on võimalik ainult korraliku dokumentatsiooni olemasolul.
 
-Siit leiad Piraadipartei ajaloo jooksul koostatud ja tõlgitud dokumente. Kõik need ei väljenda enam meie praegusi seisukohti, kuid on teetähised meie seisukohtade küpsemisel. Mõni uus unustatud vana ning sellest dokumendivaramust leiad tuge piraadiprogrammi kujundamisel.
+Siit leiad Piraadipartei ajaloo jooksul koostatud ja tõlgitud dokumente. Kõik need ei väljenda enam meie praegusi seisukohti täies detailsuses, kuid on teetähised meie seisukohtade küpsemisel. Mõni uus unustatud vana ning sellest dokumendivaramust leiad tuge piraadiprogrammi kujundamisel.
