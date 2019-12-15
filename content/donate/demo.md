@@ -27,9 +27,10 @@ subtitle = "Muutused ei sünni ilma vahenditeta!"
  css_class = ""
 +++
 
-Piraadiparteile saab annetada LHV panga kontole EE177700771000847929.
+Piraadipartei [põhikirjalist](/docs/p6hikiri) tegevust saab toetada ülekandega meie LHV panga kontole:
 
-* Annetuse saaja: `Mittetulundusühing Piraadipartei`
+* Konto: `EE177700771000847929`
+* Saaja: `MTÜ Piraadipartei`
 * Selgitus: `Annetus`
 
 Annetajad on teretulnud selgituses täpsustama, mis otstarbeks annetus on mõeldud. Märkust otstarbe kohta võtame küll pigem soovitusena, kuid teeme endast oleneva, et annetajate eelistustega arvestada.
