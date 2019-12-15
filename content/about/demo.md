@@ -34,7 +34,7 @@ subtitle = "Mittetulundusühing Piraadipartei rekvisiidid"
 * Margus Toots
 
 Registrikood: 80292241  
-Pangakonto: EE177700771000847929  
+Pangakonto: [EE177700771000847929](/donate)  
 Meiliaadress: juhatus@piraadipartei.ee  
 
 {{% alert note %}}
