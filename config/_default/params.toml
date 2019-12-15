@@ -113,6 +113,7 @@ contact_links = [
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "facebook", icon_pack = "fab", name = "Lõustik", link = "https://facebook.com/piraadipartei"},
   {icon = "comments", icon_pack = "fa", name = "Jututuba", link = "https://matrix.to/#/!ftNIPEprzEWxccvjUY:diasp.in?via=diasp.in&via=matrix.org&via=sibnsk.net"},
+  {icon = "piggy-bank", icon_pack = "fas", name = "Anneta", link = "/donate"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
