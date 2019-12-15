@@ -29,9 +29,9 @@ subtitle = "Muutused ei sünni ilma vahenditeta!"
 
 Piraadiparteile saab annetada LHV panga kontole EE177700771000847929.
 
-LHV panga BIC/SWIFT kood on LHVBEE22.
+* Annetuse saaja: `Mittetulundusühing Piraadipartei`
+* Selgitus: `Annetus`
 
-Annetuse selgitusse märkida "annetus" ning täpsustada soovi korral, mis otstarbeks annetus on. Märkust otstarbe kohta võtame soovitusena, kuid teeme endast oleneva, et annetajate eelistustega arvestada.
+Annetajad on teretulnud selgituses täpsustama, mis otstarbeks annetus on mõeldud. Märkust otstarbe kohta võtame küll pigem soovitusena, kuid teeme endast oleneva, et annetajate eelistustega arvestada.
 
-Kui on soov annetada rangelt sihtotstarbeliseks kasutuseks, siis palume võtta ühendust [juhatusega](/meist) ja see enne annetamist läbi rääkida.
-
+Kui on soov annetada rangelt sihtotstarbeliseks kasutuseks, siis palume võtta ühendust [juhatusega](/about) ja see enne annetamist läbi rääkida.
