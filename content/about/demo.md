@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Organisatsioonist"
-subtitle = "Mittetulundusühing Piraadipartei rekvisiidid"
+subtitle = "MTÜ Piraadipartei rekvisiidid"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -33,9 +33,12 @@ subtitle = "Mittetulundusühing Piraadipartei rekvisiidid"
 * Märt Põder
 * Margus Toots
 
+Nimetus: MTÜ Piraadipartei  
 Registrikood: 80292241  
+Aadress: Kivi 21-35, Tartu 51009  
 Pangakonto: [EE177700771000847929](/donate)  
 Meiliaadress: juhatus@piraadipartei.ee  
+Telefon: +372 55643754 (Märt Põder)
 
 {{% alert note %}}
 * Piraadipartei on vabatahtlikkuse alusel ühinenud isikute iseseisev, kasumit mitte taotlev organisatsioon, mis tegutseb avalikes huvides, demokraatia, isemajandamise ja isefinantseerimise põhimõttel.
