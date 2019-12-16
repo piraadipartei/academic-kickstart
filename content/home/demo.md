@@ -49,7 +49,7 @@ subtitle = "▶ üleilmse piraadiliikumise kohalik rakuke ◀"
 
 Piraadipartei on digipõlvkonna poliitiline platvorm, mis seisab kultuurse ja vaba infoühiskonna eest. Kui kuuled sellest esimest korda, siis võib olla mõistlik lüüa lahti [Vikipeedia](https://et.wikipedia.org/wiki/Piraadipartei).
 
-{{% alert note %}}
+{{< alert note >}}
 Piraadilaev on ekselnud ulgumerel, näinud torme ja karisid. Oleme hetkel heitnud end ankrusse turvalisse lahesoppi ja vaatame, mis saab edasi. Sina [saad aidata](https://github.com/piraadipartei/academic-kickstart/blob/master/README.md)!
 
-{{% /alert %}}
+{{< /alert >}}

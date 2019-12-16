@@ -40,11 +40,11 @@ Pangakonto: [EE177700771000847929](/donate)
 Meiliaadress: juhatus@piraadipartei.ee  
 Telefon: +372 55643754 (Märt Põder)
 
-{{% alert note %}}
+{{< alert note >}}
 * Piraadipartei on vabatahtlikkuse alusel ühinenud isikute iseseisev, kasumit mitte taotlev organisatsioon, mis tegutseb avalikes huvides, demokraatia, isemajandamise ja isefinantseerimise põhimõttel.
 
 * Meie eesmärgiks on [erakonna asutamine vastavalt Eesti Vabariigi seadustele](/docs/p6hikiri).
 
 * Mittetulundusühing reorganiseerub erakonnaks niipea, kui meil on vähemalt 500 liiget, kes kinnitavad ühingu üldkoosolekul valmisolekut erakonnastumiseks ning on loodud erakonna otsedemokraatlikuks toimimiseks vajalik keskkond.
 
-{{% /alert %}}
+{{< /alert >}}

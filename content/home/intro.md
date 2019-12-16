@@ -49,7 +49,7 @@ intro = "Piraadipartei on digipõlvkonna poliitiline platvorm, mis seisab kultuu
  css_class = ""
 +++
 
-{{% alert note %}}
+{{< alert note >}}
 Piraadilaev on ekselnud ulgumerel, näinud torme ja karisid. Oleme hetkel heitnud end ankrusse turvalisse lahesoppi ja vaatame, mis saab edasi. Sina [saad aidata](https://github.com/piraadipartei/academic-kickstart/blob/master/README.md)!
 
-{{% /alert %}}
+{{< /alert >}}
