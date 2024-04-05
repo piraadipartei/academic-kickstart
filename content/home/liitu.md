@@ -3,13 +3,13 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "membership"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "email_membership"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 35 # Order that this section will appear.
 
 title = "Ühildumine"
-subtitle = "liitumiseks täida ning allkirjasta avaldus — liikmemaksu pole ja isikuandmeid kõrvaliste isikutega me ei jaga"
+subtitle = "liitumiseks täida avaldus ja saada juhatus@piraadipartei.ee — liikmemaksu pole ja isikuandmeid kõrvaliste isikutega me ei jaga"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
